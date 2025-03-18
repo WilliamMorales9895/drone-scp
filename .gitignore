@@ -5,3 +5,4 @@ dist/
 *.log
 .pytest_cache/
 *.tmp
+coverage/
